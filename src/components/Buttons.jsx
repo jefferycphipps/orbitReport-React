@@ -19,7 +19,3 @@ const Buttons = ({ filterByType, setSat, displaySats }) => {
 
 export default Buttons;
 
-
-//{
-//  displaySats.map((sat, id) => <button  onClick={() => (filterByType(sat))} id={id}>{sat}</button>)
-//}
